@@ -18,7 +18,7 @@ DEPENDENCIES
     nodemon
 
 #### `.env` requirements
-* `PORT` - Port Number
+* `PORT` - 3000
 * `DATABASE_URL` - URL to the running mongo instance/db
 * any environment variables like api keys as needed
 
@@ -35,20 +35,26 @@ DEPENDENCIES
 
 ### Time Records
 
-# Number and name of Feature
-Feature #: FEATURE DESCRIPTION
+# Feature Build History
+## Feature #: FEATURE DESCRIPTION
+### Estimate of time needed to complete
+NN
+### Start date and time
+NN am
+### Finish time
+NN am
+### Actual time needed to complete
+NN min
 
-	# Estimate of time needed to complete
-	NN
-
-	# Start time
-	NN am
-
-	# Finish time
-	## am
-
-	# Actual time needed to complete
-	NN min
+## Feature #: FEATURE DESCRIPTION
+### Estimate of time needed to complete
+NN
+### Start date and time
+NN am
+### Finish time
+NN am
+### Actual time needed to complete
+NN min
 
 
 
